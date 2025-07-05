@@ -1,0 +1,21 @@
+{
+  "name": "griffith-theme",
+  "displayName": "Griffith Theme",
+  "description": "A sleek and elegant dark color theme for VS Code inspired by the aesthetics of anime and fantasy worlds. Designed for readability and focus, Griffith Color Theme blends deep contrasts with subtle highlights to create a visually pleasing and immersive coding experience.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.101.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Griffith-Golden-Age",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Griffith-Golden-Age-color-theme.json"
+      }
+    ]
+  }
+}
