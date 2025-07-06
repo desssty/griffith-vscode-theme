@@ -1,6 +1,6 @@
 # Griffith Theme
 
-![Griffith Theme preview](//assets//example.png)
+![Griffith Theme preview](./assets/example.png)
 
 ## About Griffith Theme
 
@@ -48,6 +48,8 @@ git clone https://github.com/desssty/griffith-theme.git
 - Publish the Griffith Theme to the official VS Code Marketplace and Open VSX Registry for easier installation.
 
 ## Thanks
+
+<img src="./assets/kid_griffith_castle.jpg" width="300" alt="Griffith Castle" />
 
 Thanks for checking out this theme.
 If you liked it, consider giving it a ⭐
