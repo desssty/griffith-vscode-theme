@@ -8,7 +8,7 @@ Inspired by the captivating worlds of anime and fantasy, Griffith Color Theme is
 
 Designed by [desty](https://github.com/desssty)
 
-## 🎨 Color Palette (PNG Preview)
+## Color Palette
 
 | Palette      | Hex       | RGB             | HSL               | Preview                                                                     |
 | ------------ | --------- | --------------- | ----------------- | --------------------------------------------------------------------------- |
