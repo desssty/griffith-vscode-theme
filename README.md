@@ -12,16 +12,16 @@ Designed by [desty](https://github.com/desssty)
 
 | Palette      | Hex       | RGB             | HSL               | Preview                                                                     |
 | ------------ | --------- | --------------- | ----------------- | --------------------------------------------------------------------------- |
-| Background   | `#0f0f0f` | `15, 15, 15`    | `0°, 0%, 6%`      | <img src="./assets/span_0f0f0f.svg" width="16" height="16" alt="#0f0f0f" /> |
-| Current Line | `#37373d` | `55, 55, 61`    | `240°, 5%, 23%`   | <img src="./assets/span_37373d.svg" width="16" height="16" alt="#37373d" /> |
-| Selection    | `#37373d` | `55, 55, 61`    | `240°, 5%, 23%`   | <img src="./assets/span_37373d.svg" width="16" height="16" alt="#37373d" /> |
-| Foreground   | `#e5ecfe` | `229, 236, 254` | `224°, 89%, 95%`  | <img src="./assets/span_e5ecfe.svg" width="16" height="16" alt="#e5ecfe" /> |
-| Comment      | `#5d7ca7` | `93, 124, 167`  | `216°, 30%, 51%`  | <img src="./assets/span_5d7ca7.svg" width="16" height="16" alt="#5d7ca7" /> |
-| Cyan         | `#5ad4ff` | `90, 212, 255`  | `196°, 100%, 68%` | <img src="./assets/span_5ad4ff.svg" width="16" height="16" alt="#5ad4ff" /> |
-| Green        | `#b0eaeb` | `176, 234, 235` | `181°, 60%, 81%`  | <img src="./assets/span_b0eaeb.svg" width="16" height="16" alt="#b0eaeb" /> |
-| Yellow       | `#ffcc00` | `255, 204, 0`   | `48°, 100%, 50%`  | <img src="./assets/span_ffcc00.svg" width="16" height="16" alt="#ffcc00" /> |
-| Red          | `#a54445` | `165, 68, 69`   | `359°, 42%, 46%`  | <img src="./assets/span_a54445.svg" width="16" height="16" alt="#a54445" /> |
-| Purple       | `#5aaaff` | `90, 170, 255`  | `212°, 100%, 68%` | <img src="./assets/span_5aaaff.svg" width="16" height="16" alt="#5aaaff" /> |
+| Background   | `#0f0f0f` | `15, 15, 15`    | `0°, 0%, 6%`      | <img src="./assets/span_0F0F0F.svg" width="16" height="16" alt="#0f0f0f" /> |
+| Current Line | `#37373d` | `55, 55, 61`    | `240°, 5%, 23%`   | <img src="./assets/span_37373D.svg" width="16" height="16" alt="#37373d" /> |
+| Selection    | `#37373d` | `55, 55, 61`    | `240°, 5%, 23%`   | <img src="./assets/span_37373D.svg" width="16" height="16" alt="#37373d" /> |
+| Foreground   | `#e5ecfe` | `229, 236, 254` | `224°, 89%, 95%`  | <img src="./assets/span_E5ECFE.svg" width="16" height="16" alt="#e5ecfe" /> |
+| Comment      | `#5d7ca7` | `93, 124, 167`  | `216°, 30%, 51%`  | <img src="./assets/span_5D7CA7.svg" width="16" height="16" alt="#5d7ca7" /> |
+| Cyan         | `#5ad4ff` | `90, 212, 255`  | `196°, 100%, 68%` | <img src="./assets/span_5AD4FF.svg" width="16" height="16" alt="#5ad4ff" /> |
+| Green        | `#b0eaeb` | `176, 234, 235` | `181°, 60%, 81%`  | <img src="./assets/span_B0EAEB.svg" width="16" height="16" alt="#b0eaeb" /> |
+| Yellow       | `#ffcc00` | `255, 204, 0`   | `48°, 100%, 50%`  | <img src="./assets/span_FFCC00.svg" width="16" height="16" alt="#ffcc00" /> |
+| Red          | `#a54445` | `165, 68, 69`   | `359°, 42%, 46%`  | <img src="./assets/span_A54445.svg" width="16" height="16" alt="#a54445" /> |
+| Purple       | `#5aaaff` | `90, 170, 255`  | `212°, 100%, 68%` | <img src="./assets/span_5AAAFF.svg" width="16" height="16" alt="#5aaaff" /> |
 
 ## Installation
 
